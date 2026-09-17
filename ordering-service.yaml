@@ -1,0 +1,4 @@
+# spring bean 객체를 만들 때 가져오는 용도
+spring:
+  kafka:
+    kafka-server: localhost:9092
